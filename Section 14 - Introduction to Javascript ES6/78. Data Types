@@ -1,0 +1,13 @@
+Data Types : 
+data type is way to define a variable which type of value contains.
+it can be a number, string, boolean etc
+
+data type in Javascript : 
+                        Number : 123 2 1 
+                        String : Hello shubham
+                        Boolean : true false
+                        float : 3.4 4.3
+
+we can check the type of any variable using "typeof()" function
+example : typeof(123) 
+output : "number"
