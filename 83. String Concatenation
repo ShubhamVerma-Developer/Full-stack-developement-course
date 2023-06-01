@@ -1,0 +1,4 @@
+var message = "hellow";
+var name = "shubham";
+
+alert(message + " there " + name);
