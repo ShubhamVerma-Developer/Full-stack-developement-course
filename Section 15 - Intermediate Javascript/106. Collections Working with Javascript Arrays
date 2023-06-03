@@ -1,0 +1,2 @@
+var getList = ["shubham", "amit", "raju", "John", "Jack"];
+console.log(getList.includes("raju"));
