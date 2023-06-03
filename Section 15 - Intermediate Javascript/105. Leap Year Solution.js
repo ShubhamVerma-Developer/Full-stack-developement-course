@@ -1,4 +1,3 @@
-// solve the problem of leap year or non leap year
 
 function isLeap(year) {
     var output = "";
