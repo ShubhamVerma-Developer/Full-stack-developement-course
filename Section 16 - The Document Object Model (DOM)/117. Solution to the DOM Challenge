@@ -1,0 +1,27 @@
+Solution to the DOM Challenge
+As always, you can find the resources and download links over at the Web Dev Resources List here:
+
+https://www.appbrewery.co/p/web-development-course-resources
+
+Scroll down for the solution to the challenge 👇
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solution to the challenge:
+
+document.firstElementChild.lastElementChild.lastElementChild.lastElementChild.innerHTML = "Angela"
