@@ -1,0 +1,53 @@
+Dicee Challenge Step 6 - Change the Title to Display a Winner
+Change the text in the h1, (which currently says Refresh Me) to show which user won or if there was a draw depending on the dice values of player 1 (left) and player 2 (right).
+
+
+Scroll down if you need a hint 👇
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hint: You'll need to use an if statement, querySelector() and the innerHTML property to change the text in the h1.
