@@ -1,0 +1,2 @@
+Dicee Challenge Step 2 - Add Dice Images
+In the Dicee project, there is a folder called images, add the images of dice6.png as the source to both of the <img> elements.
