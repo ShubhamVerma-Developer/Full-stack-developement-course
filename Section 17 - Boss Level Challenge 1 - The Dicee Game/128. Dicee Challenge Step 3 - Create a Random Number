@@ -1,0 +1,2 @@
+Dicee Challenge Step 3 - Create a Random Number
+Inside index.js, create a new variable called randomNumber1 then set the value of this variable to a random number between 1 and 6. Test it out in the console to make sure it works as expected.
