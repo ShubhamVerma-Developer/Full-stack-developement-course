@@ -1,5 +1,2 @@
-$('h1').text("Bye");
+$("a").attr("href", "https://bing.com");
 
-
-// $("button").text("Don't Click me");
-$("button").html("<em>Hey</em>")
