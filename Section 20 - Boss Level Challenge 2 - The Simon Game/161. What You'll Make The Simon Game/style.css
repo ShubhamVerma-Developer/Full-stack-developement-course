@@ -1,0 +1,40 @@
+body{
+    background: #011f3f
+}
+.container{
+    text-align: center;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+}
+.grid-container {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: auto auto;
+    padding: 2px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .btn-style {
+    border: 10px solid rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    text-align: center;
+    border-radius: 40px;
+    width: 200px;
+    height: 200px;
+
+  }
+
+  .green{
+    background-color: green;
+  }
+  .red{
+    background-color: red;
+  }
+  .yellow{
+    background-color: yellow;
+  }
+  .blue{
+    background-color: blue;
+  }
