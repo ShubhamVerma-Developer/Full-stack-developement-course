@@ -11,6 +11,7 @@ $(".btn").click(function() {
 
   //1. In the same way we played sound in nextSequence() , when a user clicks on a button, the corresponding sound should be played.
   playSound(userChosenColour);
+  animatePress(userChosenColour);
 
 });
 
@@ -24,7 +25,7 @@ function nextSequence() {
 
   //4. Refactor the code in playSound() so that it will work for both playing sound in nextSequence() and when the user clicks a button.
   playSound(randomChosenColour);
-  animatePress(randomChosenColour);
+ 
 }
 
 //2. Create a new function called playSound() that takes a single input parameter called name.
