@@ -1,0 +1,25 @@
+Install Node.js on Mac
+Installation Steps
+
+Download the Mac installer from the Nodes.js® web site. 
+
+Choose the Long Term Support version that’s shown on the left. 
+
+
+Run the installer (double-click on the .pkg file you downloaded in the previous step.)
+
+NOTE: If you are running macOS Catalina 10.15, you might get a warning pop up that looks like this:
+
+
+To solve this issue, just right click (hold down the control key on the keyboard and click) on the .pkg file and select "Open With" and then select "Installer (default)".
+
+
+
+
+Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
+
+Confirm that node has been installed successfully by opening a Hyper terminal and entering the command
+
+node --version
+
+You should see the version of node you have just installed.
