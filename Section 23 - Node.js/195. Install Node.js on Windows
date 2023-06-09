@@ -1,0 +1,18 @@
+Install Node.js on Windows
+Installation Steps
+
+Download the Windows installer from the Nodes.js® web site. 
+
+Choose the LTS version that’s shown on the left. 
+
+Run the installer (the .msi file you downloaded in the previous step.)
+
+Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
+
+
+
+5. Restart your computer. You won’t be able to run Node.js® until you restart your computer.
+
+6. Confirm that Node has been installed successfully on your computer by opening a Hyper terminal and typing in the commands node --version
+
+You should see the version of node you just installed.
