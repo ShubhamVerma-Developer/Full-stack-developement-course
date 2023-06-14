@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "install a nodemon",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "shubham verma",
+  "license": "ISC"
+}
