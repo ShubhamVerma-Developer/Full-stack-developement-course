@@ -1,0 +1,9 @@
+https://api.openweathermap.org/data/2.5/weather?q=sehore&units=metric&appid=0d18f50e149b25b88753da950059cdf1
+
+
+
+
+Query                          Parameters
+q     ------------------------> sehore
+units ------------------------> metric
+appid ------------------------> 0d18f50e149b25b88753da950059cdf1
