@@ -1,0 +1,14 @@
+{
+  "name": "218.-making-get-requests-with-the-node-https-module",
+  "version": "1.0.0",
+  "description": "This project for Get request ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
