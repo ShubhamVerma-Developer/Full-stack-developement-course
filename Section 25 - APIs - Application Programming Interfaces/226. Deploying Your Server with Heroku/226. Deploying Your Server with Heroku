@@ -1,0 +1,8 @@
+To deploying your server with Heroku you follow these step.
+
+--You need to signup with your email.
+--choose the language Nodejs
+--download the Heroku CLI 
+--clone the repository
+--deploy on the server
+
